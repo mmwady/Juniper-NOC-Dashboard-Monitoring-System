@@ -5,7 +5,7 @@ A comprehensive, asynchronous monitoring and visualization platform designed spe
 ## 🖥️ System Interface & Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/412f93ef-a8f3-4dd9-830d-d96ceee2561" alt="Juniper NOC Dashboard Screenshot" width="100%">
+  <img width="100%" alt="Juniper NOC Dashboard Screenshot" src="https://github.com/user-attachments/assets/c519a55a-eaca-4a27-8853-56fa5cf45bb8" />
 </p>
 
 ## 🏗️ System Architecture
